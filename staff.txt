@@ -1,0 +1,4 @@
+# AMAHA staff roster (read by the VRChat world when it starts)
+# One VRChat display name per line, exactly as shown in VRChat (case-sensitive).
+# Lines starting with # and empty lines are ignored.
+# After editing, wait a few minutes for GitHub's cache before starting a new instance.
