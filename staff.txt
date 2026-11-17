@@ -3,3 +3,4 @@
 # Lines starting with # and empty lines are ignored.
 # After editing, wait a few minutes for GitHub's cache before starting a new instance.
 らくちか
+天羽マリ
